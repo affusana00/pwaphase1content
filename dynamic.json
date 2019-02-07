@@ -1,0 +1,43 @@
+{
+	"profile":{
+		"img":"pp.png",
+		"name":"Afreen Jaha",
+		"roll":"17A31A0501",
+		"institute":"Pragati Engineering College",
+		"place":"Surampalem"
+	},
+	"career":{
+		"info":"To reach highest peak in my work"
+	},
+	"education":[
+		{
+			"sno":"1",
+			"degree":"btech",
+			"institute":"Pragati",
+			"yop":"2021"
+		},
+		{
+			"sno":"2",
+			"degree":"inter",
+			"institute":"sri chaitanya",
+			"yop":"2017"
+		},
+		{
+			"sno":"3",
+			"degree":"tenth",
+			"institute":"little paradise",
+			"yop":"2015"
+		}
+	],
+	"languages":[
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"hindi"
+		},
+		{
+			"lang":"telugu"
+		}
+	]
+}
